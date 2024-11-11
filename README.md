@@ -1,6 +1,6 @@
 # Emines-2024 Data Science Module
 
-Welcome to the Data Science course! This README file provides an overview of the course structure and requirements.
+Welcome to the Data Science course of EMINES Université Mohammed VI Polytechnique! This README file provides an overview of the course structure and requirements.
 
 ## Course Structure
 
@@ -37,3 +37,6 @@ Your presentation should cover:
 ## Resources
 - **Article A:** [article_A_robotique.pdf](https://redwood.berkeley.edu/wp-content/uploads/2021/08/Neubert2019_Article_AnIntroductionToHyperdimension.pdf)
 - **Article B:** [article_B_VSA.pdf](https://arxiv.org/pdf/2202.04805)
+- [full ALOI dataset](https://aloi.science.uva.nl)
+  - [small ALOI dataset](https://drive.google.com/file/d/1rdB63UkBn1lrpHRDb8CXPKMORLy6T4QQ/view?usp=sharing)
+- **Slides:** by Pr. Laurent Miclet in folder Cours
